@@ -1,3 +1,4 @@
+dont use fast forward model.
 Creating a new branch is quick & simple.
 Creating a new branch is quick and sample.
 f1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
