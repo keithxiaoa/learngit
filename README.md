@@ -1,4 +1,5 @@
 Creating a new branch is quick & simple.
+Creating a new branch is quick and sample.
 f1\ansi\ansicpg1252\cocoartf1348\cocoasubrtf170
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
