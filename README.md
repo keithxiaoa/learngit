@@ -1,3 +1,4 @@
+pull branch.
 dont use fast forward model.
 Creating a new branch is quick & simple.
 Creating a new branch is quick and sample.
